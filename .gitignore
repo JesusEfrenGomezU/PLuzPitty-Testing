@@ -1,0 +1,111 @@
+# Created by ChatGPT
+# Node.js / React
+node_modules/
+build/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+log/
+
+# React cache
+.cache/
+
+# Coverage directory used by testing tools
+coverage/
+
+# C# / .NET
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.mdb
+*.pidb
+*.log
+*.userprefs
+*.ilk
+*.idb
+*.tlog
+*.tlh
+*.tmp
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# JSON data files (if you have sensitive data, add specific file names)
+*.json
+
+# EF Core Migrations
+Migrations/
+
+# Visual Studio / Rider
+.vscode/
+.idea/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Packages
+*.nupkg
+*.snupkg
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+*.DotSettings
+
+# JetBrains Rider
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Backup & Cache
+*.bak
+*.swp
+*.swn
+*.swo
+*.swd
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Publishing files
+publish/
+out/
+
+# Local configuration files
+appsettings.*.json
+secrets.json
