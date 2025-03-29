@@ -50,9 +50,6 @@ obj/
 *.ldf
 *.ndf
 
-# JSON data files (if you have sensitive data, add specific file names)
-*.json
-
 # EF Core Migrations
 Migrations/
 
